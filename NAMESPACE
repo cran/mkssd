@@ -1,1 +1,2 @@
+importFrom("utils", "setTxtProgressBar", "txtProgressBar")
 export(mkssd)

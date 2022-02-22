@@ -24,8 +24,7 @@
 	\item{k}{order of circulation}
 	\item{mef}{minimum efficiency required, should be between 0 to 1}
 	}
-\references{B. N. Mandal, V.K. Gupta and Rajender Parsad. (2011). Construction of Efficient Multi-level
-k-circulant Supersaturated Designs, article submitted to Communications in Statistics-Theory and Methods}
+\references{B. N. Mandal, V. K. Gupta & Rajender Parsad (2014) Construction of Efficient Multi-Level k-Circulant Supersaturated Designs, Communications in Statistics - Theory and Methods, 43:3, 599-615}
 \author{B N Mandal}
 \keyword{supersaturated design}
 \keyword{multi-level}
